@@ -1,0 +1,11 @@
+{
+  "name": "photocompareapp",
+  "version": "1.0.0",
+  "description": "Application To compare Photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rpatilsandip@gmail.com",
+  "license": "ISC"
+}

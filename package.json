@@ -4,8 +4,12 @@
   "description": "Application To compare Photos",
   "main": "index.js",
   "scripts": {
+    "serve": "http-server -o -p 4200",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rpatilsandip@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }
